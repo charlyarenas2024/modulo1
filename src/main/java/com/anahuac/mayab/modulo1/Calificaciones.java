@@ -1,5 +1,5 @@
 package com.anahuac.mayab.modulo1;
-
+//.
 import java.util.Scanner;
 
 public class Calificaciones 

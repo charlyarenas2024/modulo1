@@ -1,7 +1,7 @@
 package com.anahuac.mayab.modulo1;
 
 /**
- * Hello world!
+ * Hello world..!
  */
 public class App {
     public static void main(String[] args) {
@@ -17,3 +17,4 @@ public class App {
         System.out.println("El area de tu triangulo es: " + area);
     }
 }
+//
