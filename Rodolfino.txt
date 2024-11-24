@@ -1,0 +1,6 @@
+---- Datos Perro -----
+Nombre=Rodolfino [raza=Meztizo, tamaño=null, peso=0.0, nombre Dueño = Luis Marmolejo, edad=0]
+------------
+Vacuna : vacuna
+Fecha : 23-nov-2024
+------------
